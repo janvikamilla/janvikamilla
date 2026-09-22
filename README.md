@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Janvi Kamilla
 
-<!--
-**janvikamilla/janvikamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Robotics & Automation Student**
 
-Here are some ideas to get you started:
+I'm a B.Tech student exploring programming, robotics and automation through practical learning and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- C Programming
+- MATLAB & Simulink
+- Robotics & Automation
+- Basic Embedded Systems
+
+## 🔧 Areas I'm Exploring
+
+- Robotics
+- Automation
+- Programming
+- Engineering Projects
+
+## 📂 My GitHub Journey
+
+I'm building my programming fundamentals through beginner-friendly projects and gradually exploring robotics and automation.
+
+### 🚀 Current Focus
+
+Learning → Building → Practicing → Improving
+
+---
+
+⭐ Thanks for visiting my profile!
