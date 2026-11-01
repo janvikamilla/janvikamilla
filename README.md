@@ -1,31 +1,34 @@
-# Hi 👋 I'm Janvi Kamilla
+# Student Results Website
 
-🤖 **Robotics & Automation Student**
+## Project Overview
 
-I'm a B.Tech student exploring programming, robotics and automation through practical learning and projects.
+A web-based Student Results Management System that displays student academic records using data stored in Google Sheets.
 
-## 🌱 Currently Learning
+## Features
 
-- C Programming
-- MATLAB & Simulink
-- Robotics & Automation
-- Basic Embedded Systems
+* Displays student records.
+* Search students by name or roll number.
+* Shows 10th, 12th, Semester 1 and Semester 2 marks.
+* Fetches student data dynamically.
+* Simple and user-friendly interface.
 
-## 🔧 Areas I'm Exploring
+## Technologies Used
 
-- Robotics
-- Automation
-- Programming
-- Engineering Projects
+* HTML
+* CSS
+* JavaScript
+* Google Sheets
+* Google Apps Script
+* GitHub Pages
 
-## 📂 My GitHub Journey
+## Live Website
 
-I'm building my programming fundamentals through beginner-friendly projects and gradually exploring robotics and automation.
+https://janvikamilla.github.io/student-results-website/
 
-### 🚀 Current Focus
+## Project Objective
 
-Learning → Building → Practicing → Improving
+To develop a simple website that makes student academic records easy to access and search.
 
----
+## Developed By
 
-⭐ Thanks for visiting my profile!
+Janvi Kamilla
